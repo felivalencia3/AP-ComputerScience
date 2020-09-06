@@ -4,7 +4,7 @@ import java.util.HashMap;
 import java.util.Random;
 import java.util.Scanner;
 
-public class Main {
+public class GuessTheNumber {
     //Create random number between 1 and 10
     public static int getRandomInt() {
         Random random = new Random();
